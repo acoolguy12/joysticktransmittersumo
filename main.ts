@@ -15,7 +15,7 @@ let x = 0
 joystickbit.initJoystickBit()
 comment.comment("CHANGE THE RADIO GROUP TO YOUR TEAM'S JOYSTICK NUMBER!")
 comment.comment("DO NOT CHANGE ANYTHING ELSE IN THIS CODE")
-radio.setGroup(26)
+radio.setGroup(25)
 basic.showIcon(IconNames.Yes)
 basic.showString("T")
 basic.forever(function () {
